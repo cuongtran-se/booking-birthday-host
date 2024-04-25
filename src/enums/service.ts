@@ -1,0 +1,4 @@
+export enum SERVICE_ENUM {
+  DECORATION = 'DECORATION',
+  FOOD = 'FOOD'
+}
